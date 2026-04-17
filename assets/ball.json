@@ -1,0 +1,25 @@
+{
+  "name": "Trionda",
+  "features": [
+    {
+      "title": "Homenaje a los tres países anfitriones",
+      "description": [
+        "El sugerente nombre de TRIONDA, junto con otras características extraordinarias e innovadoras de su diseño, rinde homenaje al hecho de que, por primera vez, tres países —Canadá, México y Estados Unidos— se unirán para albergar la Copa Mundial de la FIFA™.",
+        "El llamativo diseño del esférico presenta un patrón rojo, verde y azul que rinde homenaje a los tres países coanfitriones, mientras que la novedosa construcción a partir de cuatro paneles con fluidas figuras geométricas reproduce las ondas a las que hace referencia su nombre. Estos paneles confluyen para formar un triángulo en el centro del balón, en referencia a la histórica unión de los tres países anfitriones.",
+        "La pelota está adornada con iconografía que representa a cada país anfitrión: hojas de arce de Canadá, el águila de México y estrellas de Estados Unidos. Los destellos dorados son un homenaje al trofeo de la Copa Mundial de la FIFA™ y recalcan la importancia del escenario que brinda la competición principal de la organización."
+      ]
+    },
+    {
+      "title": "Tecnología sofisticada",
+      "description": [
+        "Además, el TRIONDA incluye varias innovaciones destacadas para mejorar el rendimiento. Su composición, a partir de cuatro paneles, incorpora unas costuras deliberadamente profundas. De este modo, se conforma una superficie que le confiere una estabilidad óptima cuando se desplaza por el aire, pues garantiza una excelente resistencia aerodinámica que se distribuye de manera uniforme. Asimismo, los gráficos estampados en relieve —que solo se ven de cerca— mejoran la adherencia al golpear o conducir la pelota bajo la lluvia o en situaciones de mucha humedad.",
+        "El balón oficial de la Copa Mundial de la FIFA™ vuelve a estar equipado con la tecnología del balón conectado. Esta vez, incluye un sensor de movimiento de 500 Hz de última generación que proporciona información de cada elemento. Esta tecnología envía datos precisos al sistema VAR en tiempo real, lo que ayuda a los árbitros en la toma de decisiones, entre ellas, las relativas a los fueras de juego."
+      ]
+    }
+  ],
+  "images_url": [
+    "https://digitalhub.fifa.com/transform/61eb1eff-7bcb-433c-9b8d-82f0a499a454/Detail-Image-02_3200x1800?&io=transform:fill,aspectratio:21x9,width:3200&quality=75",
+    "https://digitalhub.fifa.com/transform/ac004beb-13cb-4cb9-923b-dc5f030eb34f/Detail-Image-03_3200x1800?&io=transform:fill,aspectratio:16x9,width:1024&quality=75",
+    "https://digitalhub.fifa.com/transform/cb1df1d3-00b4-457b-b32e-287c9b65700f/Detail-Image-01_3200x1800?&io=transform:fill,aspectratio:16x9,width:1024&quality=75"
+  ]
+}

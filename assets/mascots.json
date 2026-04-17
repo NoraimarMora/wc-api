@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Maple™, el alce",
+    "description": [
+      "El alce Maple nació para recorrer todas las provincias y territorios de Canadá, entablando contacto con su gente y familiarizándose con la riqueza cultural del país. Apasionado del arte urbano, amante de la música y guardameta entregado, Maple destaca por su creatividad, resiliencia y un auténtico individualismo. Con sus legendarias paradas, su extraordinaria fortaleza y liderazgo, así como su estilo incomparable, Maple tiene un sinfín de historias que contar."
+    ],
+    "country": "Canada",
+    "image_url": "https://digitalhub.fifa.com/transform/36208906-a2c3-4abb-bf22-7e8a4fa0aefc/Maple?&io=transform:fill,aspectratio:16x9&quality=75"
+  },
+  {
+    "id": 2,
+    "name": "Zayu™, el jaguar",
+    "description": [
+      "El jaguar Zayu habita en las selvas del sur de México y encarna el valioso patrimonio y el dinamismo del país. Zayu, cuyo nombre significa «unidad», «fortaleza» y «alegría», es un delantero que se transforma en el terreno de juego, donde intimida a los defensores con su excepcional agilidad y velocidad. Fuera del campo, promueve la cultura mexicana a través del baile, la gastronomía y la tradición, además de unir a personas de diferentes países con su pasión y orgullo. Además de un deportista, Zayu es un símbolo de celebración y encuentro de culturas que lleva consigo el alma de México a donde quiera que vaya."
+    ],
+    "country": "Mexico",
+    "image_url": "https://digitalhub.fifa.com/transform/a2bd0cc0-5f5a-4aa2-bd67-6a251a955826/Zayu?&io=transform:fill,aspectratio:16x9,width:1024&quality=75"
+  },
+  {
+    "id": 3,
+    "name": "Clutch™, el águila",
+    "description": [
+      "El águila Clutch recorre los Estados Unidos con un espíritu insaciable, una curiosidad sin límites y un optimismo inquebrantable. Se familiariza con todas las culturas y disfruta cada partido y cada momento al máximo. Audaz dentro del campo y fuente de inspiración fuera de él, Clutch predica con el ejemplo levantando el ánimo de su equipo con energía y determinación, y convirtiendo cada reto en una oportunidad para alcanzar nuevas metas. Clutch tiene una personalidad arrolladora y le encanta el deporte. Como todo buen centrocampista, es capaz de unir a las personas que le rodean en cualquier ambiente y es un ejemplo de que para volar alto solo hay que mostrar voluntad, pasión y darlo todo en el campo."
+    ],
+    "country": "USA",
+    "image_url": "https://digitalhub.fifa.com/transform/7f6547c8-d6f4-4b56-98e9-a425be706d13/Clutch?&io=transform:fill,aspectratio:16x9,width:1024&quality=75"
+  }
+]
